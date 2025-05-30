@@ -2,14 +2,14 @@
 
 Bem-vindo à documentação do projeto Produtim. Este sistema visa otimizar a criação de MVPs e PPBs.
 
-##Proffesso
+##Professor
 *Luiz
 
 ## Integrantes 
-*Nicolas
-*Marcelle
-*Joao
-*Vinicius
+* [Nicolas]
+* [Marcelle]
+* [Joao]
+* [Vinicius]
 
 ## Sumário
 
