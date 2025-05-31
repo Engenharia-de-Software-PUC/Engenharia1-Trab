@@ -1,33 +1,35 @@
-# Produtim - Documentação do Projeto
+# Produtim 
+No cenário atual de desenvolvimento de produtos, a agilidade e a eficiência são fatores determinantes para o sucesso. Metodologias que priorizam a entrega contínua de valor e a rápida validação de ideias têm se tornado cada vez mais relevantes. Nesse contexto, o presente trabalho propõe o desenvolvimento de uma aplicação voltada para a automação e otimização da criação de MVPs (Minimum Viable Products), fundamentada na metodologia Lean Inspection, proposta por Paulo Caroli.
 
-Bem-vindo à documentação do projeto Produtim. Este sistema visa otimizar a criação de MVPs e PPBs.
+A proposta parte do princípio de que **o processo pode ser automatizado e aprimorado**, buscando tornar mais ágil e eficiente as etapas de descoberta e construção de produtos. A aplicação pretende unir práticas ágeis, automação inteligente e redução da necessidade de intervenção humana, acelerando significativamente o processo de concepção de MVPs e, consequentemente, reduzindo custos e aumentando a produtividade.
 
-## Professor
-* [  Luiz  ]
+Este trabalho, portanto, visa não apenas facilitar a construção de produtos de forma iterativa e enxuta, mas também contribuir para a disseminação de boas práticas na gestão de produtos digitais, alinhando tecnologia, agilidade e inovação.
 
-## Integrantes 
-* [Nicolas]
-* [Marcelle]
-* [Joao]
-* [Vinicius]
+
+
+## Autores 
+* [Breno Silva Custódio](https://github.com/BrenoSilva01)
+* [João Henrique dos Santos Ferreira](https://github.com/joao4xz)
+* [Marcelle Andrade Pereira](https://github.com/Marcelleap)
+* [Nicolas Martins Lorena](https://github.com/NicolasMartinsL)
+* [Vinicius Corrêa de Assis](https://github.com/viniciuscoassis)
+
+## Informações de refêrencia 
+- Disciplina: Engenharia de Software 1
+- Curso: Ciência da Computação - Campus Poços de Caldas - PPC - Noite - 2025/1
+- Instituição: Pontifícia Universidade Católica de Minas Gerais - PUC Minas
+- Professor: Luiz Alberto Ferreira Gomes
+- Código da Disciplina: 3296100
+- Formato: Graduação Presencial Síncrona - 2025/1
 
 ## Sumário
 
-*   [1. CONTEXTO](./docs/contexto.md)
-*   [2. VISÃO DO PRODUTO](./docs/visao-do-produto.md)
-*   [3. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ](./docs/o-que-e-nao-e-faz-nao-faz.md)
-*   [4. TRADE - OFFS TEMPLATE](./docs/trade-offs.md)
-*   [5. PERSONAS](./docs/personas.md)
-*   [6. BRAINSTORM DE FUNCIONALIDADES](./docs/brainstorm-funcionalidades.md)
-    *   [Níveis de Confiança das Funcionalidades](./docs/brainstorm-funcionalidades.md#níveis-de-confiança-das-funcionalidades-o-que-fazer--como-fazer)
-*   [7. REVISÃO TÉCNICA DE UX DE NEGÓCIO](./docs/revisao-tecnica-ux.md)
-*   [8. JORNADAS DOS USUÁRIOS](./docs/jornadas-dos-usuarios.md)
-    *   [Jornada de Camila Rezende (Product Owner)](./docs/jornadas-dos-usuarios.md#jornada-de-camila-rezende-product-owner)
-    *   [Jornada de Felipe Tavares (Dev Fullstack Júnior)](./docs/jornadas-dos-usuarios.md#jornada-de-felipe-tavares-dev-fullstack-júnior)
-    *   [Jornada de Bruna Costa (Scrum Master / Facilitadora Ágil)](./docs/jornadas-dos-usuarios.md#jornada-de-bruna-costa-scrum-master--facilitadora-ágil)
-*   [9. FUNCIONALIDADES NA JORNADA](./docs/funcionalidades-na-jornada.md)
-    *   [Camila Rezende – Product Owner (PO): CRIAÇÃO DE UM MVP](./docs/funcionalidades-na-jornada.md#camila-rezende-–-product-owner-po-criação-de-um-mvp)
-    *   [Felipe Tavares – Dev Fullstack Júnior: CONSULTA PARA DESENVOLVIMENTO](./docs/funcionalidades-na-jornada.md#felipe-tavares-–-dev-fullstack-júnior-consulta-para-desenvolvimento)
-    *   [Bruna Costa – Scrum Master / Facilitadora Ágil: PLANEJAMENTO DA SPRINT](./docs/funcionalidades-na-jornada.md#bruna-costa-–-scrum-master--facilitadora-ágil-planejamento-da-sprint)
-*   [10. SEQUENCIADOR](./docs/sequenciador.md)
-*   [11. CANVAS MVP](./docs/canvas-mvp.md)
+*   [1. VISÃO DO PRODUTO](./docs/visao-do-produto.md)
+*   [2. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ](./docs/o-que-e-nao-e-faz-nao-faz.md)
+*   [3. PERSONAS](./docs/personas.md)
+*   [4. BRAINSTORM DE FUNCIONALIDADES](./docs/brainstorm-funcionalidades.md)
+*   [5. REVISÃO TÉCNICA DE UX DE NEGÓCIO](./docs/revisao-tecnica-ux.md)
+*   [6. JORNADAS DOS USUÁRIOS](./docs/jornadas-dos-usuarios.md)
+*   [7. FUNCIONALIDADES NA JORNADA](./docs/funcionalidades-na-jornada.md)
+*   [8. SEQUENCIADOR](./docs/sequenciador.md)
+*   [9. CANVAS MVP](./docs/canvas-mvp.md)
