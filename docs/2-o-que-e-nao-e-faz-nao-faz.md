@@ -1,13 +1,54 @@
 # 2. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ
 
-| **É** | **NÃO É** |
-|-------|------------|
-| - É um manual passo a passo para concepção de um MVP. <br> - Facilitador para a construção de produtos. <br> - É uma aplicação web gratuita. <br> - É uma plataforma destinada exclusivamente para criação de MVP funcionais. <br> - Organiza e acelera o início de projetos, mesmo sem muita informação inicial. | - Não é um sistema completo de gestão de projetos como Jira, ClickUp ou Trello. <br> - Não é um espaço para documentação extensa ou gestão de backlog a longo prazo. <br> - Não é uma ferramenta para times grandes com fluxos complexos e hierarquias rígidas. <br> - Não é um app de design, prototipagem visual ou wireframe (como Figma ou Miro). |
-
-| **FAZ** | **NÃO FAZ** |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Ajuda a estruturar ideias brutas em um esboço funcional de produto (pré-MVP). <br> - Sugere templates e etapas práticas para gerar o primeiro escopo em poucas horas ou dias, baseado em metodologias já testadas (PBB e Lean Inspection). <br> - Facilita o alinhamento rápido entre criadores com base em objetivos e entregas simples. <br> - Incentiva a validação rápida de hipóteses e a documentação leve da ideia. <br> - Elimina a necessidade de usar papéis, post-its ou quadros físicos no início. <br> - Elimina a necessidade de passos intensos e maçantes que podem ser otimizados com I.A. | - Não substitui o uso de ferramentas completas de desenvolvimento, acompanhamento ou deploy. <br> - Não faz prototipação visual ou fluxogramas interativos. <br> - Não gera código ou entrega técnica do produto. <br> - Não substitui pesquisas de mercado, testes com usuários ou entrevistas qualitativas. |
-
+<table>
+  <tr>
+    <th style="width: 50%; text-align: left;">É</th>
+    <th style="width: 50%; text-align: left;">NÃO É</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>É um manual passo a passo para concepção de um MVP.</li>
+        <li>Facilitador para a construção de produtos.</li>
+        <li>É uma aplicação web gratuita.</li>
+        <li>É uma plataforma destinada exclusivamente para criação de MVP funcionais.</li>
+        <li>Organiza e acelera o início de projetos, mesmo sem muita informação inicial.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Não é um sistema completo de gestão de projetos como Jira, ClickUp ou Trello.</li>
+        <li>Não é um espaço para documentação extensa ou gestão de backlog a longo prazo.</li>
+        <li>Não é uma ferramenta para times grandes com fluxos complexos e hierarquias rígidas.</li>
+        <li>Não é um app de design, prototipagem visual ou wireframe (como Figma ou Miro).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align: left;">FAZ</th>
+    <th style="text-align: left;">NÃO FAZ</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Ajuda a estruturar ideias brutas em um esboço funcional de produto (pré-MVP).</li>
+        <li>Sugere templates e etapas práticas para gerar o primeiro escopo em poucas horas ou dias, baseado em metodologias já testadas (PBB e Lean Inspection).</li>
+        <li>Facilita o alinhamento rápido entre criadores com base em objetivos e entregas simples.</li>
+        <li>Incentiva a validação rápida de hipóteses e a documentação leve da ideia.</li>
+        <li>Elimina a necessidade de usar papéis, post-its ou quadros físicos no início.</li>
+        <li>Elimina a necessidade de passos intensos e maçantes que podem ser otimizados com I.A.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Não substitui o uso de ferramentas completas de desenvolvimento, acompanhamento ou deploy.</li>
+        <li>Não faz prototipação visual ou fluxogramas interativos.</li>
+        <li>Não gera código ou entrega técnica do produto.</li>
+        <li>Não substitui pesquisas de mercado, testes com usuários ou entrevistas qualitativas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 2.1 TRADE - OFFS 
 
