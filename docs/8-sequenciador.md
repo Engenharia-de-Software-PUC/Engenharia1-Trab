@@ -1,4 +1,4 @@
-# 10. SEQUENCIADOR
+# 8. SEQUENCIADOR
 
 **Legenda para Esforço, Valor $, Valor UX:**
 *   **Esforço:** E (Baixo), EE (Médio), EEE (Alto)
