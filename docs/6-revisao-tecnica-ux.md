@@ -1,4 +1,4 @@
-# 5. REVISÃO TÉCNICA DE UX DE NEGÓCIO
+# 6. REVISÃO TÉCNICA DE UX DE NEGÓCIO
 
 **Legenda:**
 *   **Confiança:** Interpretado das cores no documento original (Verde=Alta, Amarelo=Média, Vermelho=Baixa).
