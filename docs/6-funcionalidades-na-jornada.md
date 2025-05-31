@@ -1,4 +1,4 @@
-# 9. FUNCIONALIDADES NA JORNADA
+# 6. FUNCIONALIDADES NA JORNADA
 
 ## Camila Rezende – Product Owner (PO): CRIAÇÃO DE UM MVP
 | PASSO                                               | FUNCIONALIDADE                             |
