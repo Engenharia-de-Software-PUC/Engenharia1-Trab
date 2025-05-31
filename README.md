@@ -24,8 +24,8 @@ Este trabalho, portanto, visa não apenas facilitar a construção de produtos d
 
 ## Sumário
 
-*   [1. VISÃO DO PRODUTO](./docs/visao-do-produto.md)
-*   [2. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ](./docs/o-que-e-nao-e-faz-nao-faz.md)
+*   [1. VISÃO DO PRODUTO](./docs/1-visao-do-produto.md)
+*   [2. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ](./docs/2-o-que-e-nao-e-faz-nao-faz.md)
 *   [3. PERSONAS](./docs/personas.md)
 *   [4. BRAINSTORM DE FUNCIONALIDADES](./docs/brainstorm-funcionalidades.md)
 *   [5. REVISÃO TÉCNICA DE UX DE NEGÓCIO](./docs/revisao-tecnica-ux.md)
