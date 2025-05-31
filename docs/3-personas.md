@@ -54,7 +54,6 @@
 - Idade: 28 anos
 - Cargo: Scrum Master e facilitadora ágil em consultoria de TI
 - Empresa: Fábrica de Software.
-
 <table>
   <tr>
     <th style="width: 40%; text-align: left;">COMPORTAMENTO</th>
@@ -73,3 +72,4 @@
     </td>
   </tr>
 </table>
+
