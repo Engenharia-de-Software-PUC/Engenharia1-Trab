@@ -1,3 +1,0 @@
-# 1. CONTEXTO
-
-O produto consiste na criação de um sistema automatizado voltado para a otimização da produção de MVPs e PPBs, baseado nas metodologias propostas por Paulo Caroli e Fábio Aguiar. A iniciativa parte do princípio de que **tudo pode ser automatizado e melhorado**, unindo práticas ágeis, foco na entrega de valor contínuo e automação inteligente dos processos de descoberta e construção de produtos.
