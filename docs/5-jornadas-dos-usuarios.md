@@ -1,4 +1,4 @@
-# 8. JORNADAS DOS USUÁRIOS
+# 5. JORNADAS DOS USUÁRIOS
 
 ## Jornada de Camila Rezende (Product Owner)
 **Objetivo:** Transformar rapidamente uma ideia em um MVP funcional para validação.
