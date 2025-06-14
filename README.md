@@ -33,3 +33,4 @@ Este trabalho, portanto, visa não apenas facilitar a construção de produtos d
 *   [7. FUNCIONALIDADES NA JORNADA](./docs/7-funcionalidades-na-jornada.md)
 *   [8. SEQUENCIADOR](./docs/8-sequenciador.md)
 *   [9. CANVAS MVP](./docs/9-canvas-mvp.md)
+*   [10. CANVAS PBB](./docs/10-PBB.md)
