@@ -93,10 +93,10 @@
 | **PBI (Modelo ARO)**                                 |
 |------------------------------------------------------|
 | Criar a estrutura inicial da visão do produto        |
-| Validar os campos obrigatórios da visão estratégica  |
+| Validar os campos obrigatórios da visão do produto   |
 | Atualizar as informações da visão registrada         |
 | Salvar a versão consolidada da visão no sistema      |
-| Compartilhar a visão estratégica com o time          |
+| Prosseguir para o proximo passo da interface         |
 
 ---
 
@@ -104,11 +104,17 @@
 
 | **PBI (Modelo ARO)**                                           |
 |----------------------------------------------------------------|
-| Criar os quadrantes estruturados do alinhamento estratégico    |
-| Preencher a definição do escopo do produto                     |
-| Validar a consistência entre os quadrantes                     |
+| Criar os quadrantes estruturados do que o produto É            |
+| Preencher a definição do escopo do que o produto É             |
+| Criar os quadrantes estruturados do que o produto NÃO É        |
+| Preencher a definição do escopo do que o produto NÃO É         |
+| Criar os quadrantes estruturados do que o produto FAZ          |
+| Preencher a definição do escopo do que o produto FAZ           |
+| Criar os quadrantes estruturados do que o produto NÃO FAZ      |
+| Preencher a definição do escopo do que o produto NÃO FAZ       |
+| Validar a consistência entre os quadrantes do produto          |
 | Salvar o conteúdo alinhado da matriz                           |
-| Exportar a visualização estratégica dos quadrantes             |
+| Avançar para a próxima etapa da interface                      |
 
 ---
 
