@@ -1,3 +1,25 @@
+## Product Name: PRODUTIM
+
+## PROBLEMS
+
+- Dificuldade na construção do MVP  
+- Uso de ferramentas genéricas  
+- Tempo limitado para desenvolvimento, não podendo ser de uma semana  
+- Alocação de pessoas envolvidas para a construção do MVP  
+- Construção manual de materiais físicos ou templates  
+
+---
+
+## EXPECTATIONS
+
+- Agilizar o processo de construção do MVP  
+- Reduzir o tempo e esforço manual da equipe  
+- Tornar o processo acessível mesmo para pessoas com pouca experiência e grupos reduzidos  
+- Garantir consistência na qualidade dos entregáveis  
+- Ter um sistema mais especializado na construção do MVP  
+
+---
+
 ## Personas 
 
 ---
@@ -62,21 +84,40 @@
 
 ---
 
-## EERADO AINDA --- Product Backlog Items (PBIs) --- ERRADO AINDA
+## Product Backlog Items (PBIs)
 
-| **Feature**                               | **PBI (Ação - Resultado - Objeto)**                                  |
-|------------------------------------------|-----------------------------------------------------------------------|
-| Interface da Visão do Produto            | Criar formulário da visão do produto                                  |
-|                                          | Validar campos obrigatórios (missão, diferencial, meta)               |
-|                                          | Salvar dados preenchidos no sistema                                   |
-|                                          | Permitir edição da visão preenchida                                   |
-| Interface “É, Não É, Faz, Não Faz”       | Construir campos interativos do quadrante                             |
-|                                          | Organizar layout visual                                               |
-|                                          | Habilitar edição e salvamento                                         |
-|                                          | Exportar conteúdo em PDF                                              |
-|                                          | Validar preenchimento obrigatório                                     |
-| Interface de Composição de Personas (IA) | Criar formulário de coleta de dados                                   |
-|                                          | Integrar IA para gerar automaticamente                                |
-|                                          | Exibir persona gerada visualmente                                     |
-|                                          | Permitir edição manual                                                |
-|                                          | Salvar personas criadas para uso futuro                               |
+---
+
+### Interface da Visão do Produto (Bruna Costa – Scrum Master)
+
+| **PBI (Modelo ARO)**                                 |
+|------------------------------------------------------|
+| Criar a estrutura inicial da visão do produto        |
+| Validar os campos obrigatórios da visão estratégica  |
+| Atualizar as informações da visão registrada         |
+| Salvar a versão consolidada da visão no sistema      |
+| Compartilhar a visão estratégica com o time          |
+
+---
+
+### Interface “É, Não É, Faz, Não Faz” (Camila Resende – Product Owner)
+
+| **PBI (Modelo ARO)**                                           |
+|----------------------------------------------------------------|
+| Criar os quadrantes estruturados do alinhamento estratégico    |
+| Preencher a definição do escopo do produto                     |
+| Validar a consistência entre os quadrantes                     |
+| Salvar o conteúdo alinhado da matriz                           |
+| Exportar a visualização estratégica dos quadrantes             |
+
+---
+
+### Interface de Composição de Personas (Felipe Tavares – Dev Fullstack)
+
+| **PBI (Modelo ARO)**                                                |
+|---------------------------------------------------------------------|
+| Coletar os dados necessários para geração da persona                |
+| Integrar o modelo de IA para criação automática da persona          |
+| Exibir a versão visual da persona gerada                            |
+| Permitir a edição manual dos dados da persona                       |
+| Armazenar a persona gerada no banco de dados do projeto             |
