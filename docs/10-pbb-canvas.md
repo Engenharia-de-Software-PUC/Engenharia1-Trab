@@ -1,3 +1,5 @@
+# 9. PBB CANVAS
+
 ## Product Name: PRODUTIM
 
 ## PROBLEMS
@@ -94,12 +96,13 @@
 
 ### Interface da Visão do Produto (Bruna Costa – Scrum Master)
 
-| **PBI (Modelo ARO)**                                    |
-|---------------------------------------------------------|
-| Permitir preenchimento guiado da visão do produto       |
-| Possibilitar revisão e atualização do conteúdo da visão |  
-| Atualizar as informações da ENFNF                       |
-| Criar os quadrantes estruturados do que o produto ENFNF |  
+| **PBI (Modelo ARO)**                                 |
+|------------------------------------------------------|
+| Criar a estrutura inicial da visão do produto        |
+| Validar os campos obrigatórios da visão do produto   |
+| Atualizar as informações da visão registrada         |
+| Salvar a versão consolidada da visão no sistema      |
+| Prosseguir para o proximo passo da interface         |
 
 ---
 
@@ -107,6 +110,7 @@
 
 | **PBI (Modelo ARO)**                                           |
 |----------------------------------------------------------------|
+| Criar os quadrantes estruturados do que o produto É            |
 | Preencher a definição do escopo do que o produto É             |
 | Criar os quadrantes estruturados do que o produto NÃO É        |
 | Preencher a definição do escopo do que o produto NÃO É         |
@@ -124,8 +128,8 @@
 
 | **PBI (Modelo ARO)**                                                |
 |---------------------------------------------------------------------|
-| Coletar os dados necessários para geração da persona                |
-| Integrar o modelo de IA para criação automática da persona          |
-| Exibir a versão visual da persona gerada                            |
-| Permitir a edição manual dos dados da persona                       |
-| Armazenar a persona gerada no banco de dados do projeto             |
+| Preencher dados do usuário final para a IA gerar personas relevantes           |
+| Criar o modelo de IA para criação automática da persona                        |
+| Exibir a versão visual da persona gerada                                       |
+| Participar da edição manual dos dados da persona                               |
+| Armazenar a persona gerada no banco de dados do projeto                        |
