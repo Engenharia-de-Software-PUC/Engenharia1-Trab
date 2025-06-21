@@ -1,145 +1,166 @@
 # 11. HISTÓRIAS DOS USUÁRIOS
 
-
 ## HISTÓRIA 1
 
-PERSONA: BRUNA COSTA 
-<br>
-FUNCIONALIDA 1: PREENCHER VISÃO DO PRODUTO 
+**Persona:** Bruna Costa  
+**Funcionalidade:** Preencher Visão do Produto
 
-* 1.1: Como Bruna Costa, posso criar a estrutura inicial da visão do produto para Direcionamento estratégico para o MVP
+### 1.1. Como Bruna Costa, quero criar a estrutura inicial da visão do produto para direcionar estrategicamente o MVP.
 
-### Tarefas 
-+ Criar tela inicial com formulário da visão.
-+ Adicionar labels e placeholders descritivos.
+**Tarefas:**
+- Criar tela inicial com formulário da visão.
+- Adicionar labels e placeholders descritivos.
 
-### Critérios de aceite 
-+ Deve haver campos para missão, visão, público-alvo e diferenciais.
-+ A estrutura deve ser clara, intuitiva e responsiva.
+**Critérios de Aceite:**
+- Deve haver campos para missão, visão, público-alvo e diferenciais.
+- A estrutura deve ser clara, intuitiva e responsiva.
 
-### Habilitadores Técnicos e Exploratórios 
-+ Escolha do framework de formulários (Ex: React Hook Form, Formik).
-+ Definição de estrutura de dados da visão no backend (modelagem).
+**Habilitadores Técnicos e Exploratórios:**
+- Escolha do framework de formulários (ex: React Hook Form, Formik).
+- Definição da estrutura de dados no backend (modelagem).
 
-### Interface moockup 
+**Interface mockup:**  
+
+prototipos\moockups (baixafidelidade)\BF1.png
+
+---
+
+### 1.2. Como Bruna Costa, quero validar os campos obrigatórios da visão do produto para garantir o alinhamento entre os envolvidos desde o início do projeto.
+
+**Tarefas:**
+- Implementar validação obrigatória nos campos essenciais.
+- Exibir mensagens de erro acessíveis para campos não preenchidos.
+
+**Critérios de Aceite:**
+- O sistema não permite salvar se campos obrigatórios estiverem vazios.
+- Feedback visual é exibido para cada campo inválido.
+
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF2.png
 
 
+---
+
+### 1.3. Como Bruna Costa, quero salvar o conteúdo da matriz de visão para manter um registro centralizado e atualizado da missão, visão e diferenciais.
+
+**Tarefas:**
+- Criar endpoint para persistência dos dados.
+- Implementar botão "Salvar" com mensagem de sucesso.
+
+**Critérios de Aceite:**
+- O conteúdo deve ser salvo no banco de dados e ser recuperável.
+- Mensagem de confirmação deve ser exibida após o salvamento.
+
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF3.png
 
 
-* 1.2.: Como Bruna Costa, posso validar os campos obrigatórios da visão do produto para alinhamento entre os envolvidos logo no início do projeto
-
-### Tarefas 
-+ Implementar validação obrigatória nos campos essenciais.
-+ Exibir mensagens de erro acessíveis para campos não preenchidos.
-
-### Critérios de aceite 
-+ O sistema não permite salvar se campos obrigatórios estiverem vazios.
-+ Feedback visual é exibido para cada campo inválido.
-
-### Interface moockup 
-
-
-
-* 1.3: Como Bruna Costa, posso salvar o conteúdo alinhado da matriz para Registro centralizado e atualizado da missão, visão e diferenciais
-
-### Tarefas 
-+ Criar endpoint para persistência dos dados da visão.
-+ Implementar botão "Salvar" com mensagem de sucesso.
-
-### Critérios de aceite 
-+ O conteúdo deve ser salvo no banco de dados e recuperável.
-+ Mensagem de confirmação deve ser exibida após o salvamento.
-
-### Interface moockup 
+---
 
 ## HISTÓRIA 2
 
-PERSONA: CAMILA REZENDE 
-<br>
-FUNCIONALIDA 2: PREENCHER INTERFACE“É, Não É, Faz, Não Faz”
+**Persona:** Camila Rezende  
+**Funcionalidade:** Preencher Interface “É, Não É, Faz, Não Faz”
 
-* 2.1: Como Camila Rezende, posso preencher a definição do escopo do que o produto É, NÃO É, FAZ E NÃO FAZ, para Definição clara do que o produto é, não é, faz e não faz.
+### 2.1. Como Camila Rezende, quero preencher a definição do escopo do produto para deixar claro o que o produto é, não é, faz e não faz.
 
-### Tarefas 
-+ Criar layout da matriz de 4 quadrantes.
-+ Implementar campos de texto com validação básica.
+**Tarefas:**
+- Criar layout da matriz de 4 quadrantes.
+- Implementar campos de texto com validação básica.
 
+**Critérios de Aceite:**
+- O usuário pode inserir conteúdo em todos os 4 quadrantes.
+- Deve haver limite de caracteres por quadrante.
 
-### Critérios de aceite 
-+ Usuário pode inserir conteúdo em todos os 4 quadrantes.
-+ Limite de caracteres por quadrante definido.
-
-### Interface moockup 
-
-* 2.2: Como Camila Rezende, posso validar a consistência entre os quadrantes do produto para Redução de ruídos e decisões desalinhadas.
-
-### Tarefas 
-+ Criar função de verificação entre textos dos quadrantes.
-+ Adicionar alertas não intrusivos na interface.
-
-### Critérios de aceite 
-+ Alertar se houver contradições diretas entre quadrantes (ex: “É” = rápido / “Não É” = rápido).
-+ Aviso não bloqueia o usuário, apenas alerta.
-
-### Interface moockup 
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF4.png
 
 
-* 2.3: Como Camila Rezende, posso salvar o conteúdo alinhado da matriz para comunicação visual e compartilhável do foco do produto.
+---
 
-### Tarefas 
-+ Implementar salvamento no banco com chave por produto.
-+ Adicionar botão “Salvar” com confirmação visual.
+### 2.2. Como Camila Rezende, quero validar a consistência entre os quadrantes para reduzir ruídos e decisões desalinhadas.
+
+**Tarefas:**
+- Criar função de verificação de contradições entre textos dos quadrantes.
+- Adicionar alertas não intrusivos na interface.
+
+**Critérios de Aceite:**
+- O sistema alerta se houver contradições diretas entre os quadrantes (ex: “É” = rápido / “Não É” = rápido).
+- O alerta não bloqueia o usuário, apenas informa.
+
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF5.png
 
 
-### Critérios de aceite 
-+ Todos os quadrantes devem ser salvos corretamente e visíveis posteriormente.
-+ Nome do produto vinculado à matriz.
+---
 
-### Interface moockup 
+### 2.3. Como Camila Rezende, quero salvar o conteúdo da matriz para facilitar a comunicação visual e o compartilhamento do foco do produto.
+
+**Tarefas:**
+- Implementar salvamento no banco com chave por produto.
+- Adicionar botão “Salvar” com confirmação visual.
+
+**Critérios de Aceite:**
+- Todos os quadrantes devem ser salvos corretamente e visíveis posteriormente.
+- Nome do produto vinculado à matriz.
+
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF6.png
+
+
+---
 
 ## HISTÓRIA 3
 
-PERSONA: FELIPE TAVARES
-<br>
-FUNCIONALIDA 3: CRIAR INTERFACE DE COMPOSIÇÃO DE PERSONAS
+**Persona:** Felipe Tavares  
+**Funcionalidade:** Criar Interface de Composição de Personas
 
-* 3.1: Como Felipe Tavares, posso preencher dados do usuário final para a IA gerar personas relevantes para geração confiável de perfis de usuários para orientar decisões.
+### 3.1. Como Felipe Tavares, quero preencher dados do usuário final para que a IA gere personas relevantes, visando uma geração confiável de perfis de usuários para orientar decisões.
 
-### Tarefas 
-+ Criar formulário com campos padronizados para entrada de dados.
-+ Adicionar validação e UX responsiva.
+**Tarefas:**
+- Criar formulário com campos padronizados para entrada de dados.
+- Adicionar validação e UX responsiva.
+
+**Critérios de Aceite:**
+- O usuário consegue inserir dados básicos como idade, profissão e metas.
+- Campos obrigatórios são destacados.
+
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF7.png
 
 
-### Critérios de aceite 
-+ Usuário consegue inserir dados básicos como idade, profissão, metas.
-+ Campos obrigatórios são destacados.
+---
 
-### Interface moockup 
+### 3.2. Como Felipe Tavares, quero que a IA gere automaticamente personas relevantes a partir dos dados inseridos.
 
-* 3.2: Como Felipe Tavares, posso criar o modelo de IA para criação rápida e automática de personas relevantes.
+**Tarefas:**
+- Integrar modelo de IA via API.
+- Exibir resultado gerado de forma visual (card ou painel).
 
-### Tarefas 
-+ Integrar modelo de IA via API.
-+ Exibir resultado gerado de forma visual (card ou painel).
+**Critérios de Aceite:**
+- A IA gera persona com nome, descrição, objetivos e dores a partir dos dados.
+- Feedback claro de carregamento e sucesso.
 
-### Critérios de aceite 
-+ IA gera persona com nome, descrição, objetivos e dores a partir dos dados.
-+ Feedback claro de carregamento e sucesso.
+**Habilitadores Técnicos e Exploratórios:**
+- Selecionar modelo de IA (ex: OpenAI, LLaMA, local).
+- Definir prompt padrão para geração da persona.
 
-### Habilitadores Técnicos/Exploratórios
-+ Selecionar modelo de IA (ex: OpenAI, Llama, local).
-+ Definir prompt padrão para geração da persona.
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF8.png
 
-### Interface moockup 
 
-* 3.3: Como Felipe Tavares, posso participar da edição manual dos dados da persona para gerar empatia e foco no usuário durante desenvolvimento e validações.
+---
 
-### Tarefas 
-+ Criar editor online para os campos da persona.
-+ Adicionar botão “Salvar alterações”.
+### 3.3. Como Felipe Tavares, quero editar manualmente os dados da persona gerada para estimular empatia e foco no usuário durante o desenvolvimento.
 
-### Critérios de aceite 
-+ Todos os dados gerados pela IA podem ser ajustados manualmente.
-+ Alterações são salvas e mantidas.
+**Tarefas:**
+- Criar editor online para os campos da persona.
+- Adicionar botão “Salvar alterações”.
 
-### Interface moockup 
+**Critérios de Aceite:**
+- Todos os dados gerados pela IA podem ser ajustados manualmente.
+- Alterações são salvas e mantidas.
+
+**Interface mockup:**  
+prototipos\moockups (baixafidelidade)\BF9.png
+
