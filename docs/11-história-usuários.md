@@ -21,7 +21,7 @@
 
 **Interface mockup:**  
 
-![História 1.1](.https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF1.png)
+![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF1.png)
 
 ---
 
@@ -104,7 +104,7 @@
 - Nome do produto vinculado à matriz.
 
 **Interface mockup:**  
-![História 2.3](.https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF6.png)
+![História 2.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF6.png)
 
 
 ---
