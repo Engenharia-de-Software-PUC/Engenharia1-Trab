@@ -21,7 +21,7 @@
 
 **Interface mockup:**  
 
-![História 1.1](./prototipos/moockups%20(baixafidelidade)/BF1.png)
+![História 1.1](.https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF1.png)
 
 ---
 
@@ -36,7 +36,7 @@
 - Feedback visual é exibido para cada campo inválido.
 
 **Interface mockup:**  
-![História 1.2](./prototipos/moockups%20(baixafidelidade)/BF2.png)
+![História 1.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF2.png)
 
 ---
 
@@ -51,7 +51,7 @@
 - Mensagem de confirmação deve ser exibida após o salvamento.
 
 **Interface mockup:**  
-![História 1.3](./prototipos/moockups%20(baixafidelidade)/BF3.png)
+![História 1.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF3.png)
 
 
 ---
@@ -72,7 +72,7 @@
 - Deve haver limite de caracteres por quadrante.
 
 **Interface mockup:**  
-![História 2.1](./prototipos/moockups%20(baixafidelidade)/BF4.png)
+![História 2.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF4.png)
 
 
 ---
@@ -88,7 +88,7 @@
 - O alerta não bloqueia o usuário, apenas informa.
 
 **Interface mockup:**  
-![História 2.2](./prototipos/moockups%20(baixafidelidade)/BF5.png)
+![História 2.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF5.png)
 
 
 ---
@@ -104,7 +104,7 @@
 - Nome do produto vinculado à matriz.
 
 **Interface mockup:**  
-![História 2.3](./prototipos/moockups%20(baixafidelidade)/BF6.png)
+![História 2.3](.https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF6.png)
 
 
 ---
@@ -125,7 +125,7 @@
 - Campos obrigatórios são destacados.
 
 **Interface mockup:**  
-![História 3.1](./prototipos/moockups%20(baixafidelidade)/BF7.png)
+![História 3.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF7.png)
 
 
 ---
@@ -145,7 +145,7 @@
 - Definir prompt padrão para geração da persona.
 
 **Interface mockup:**  
-![História 3.2](./prototipos/moockups%20(baixafidelidade)/BF8.png)
+![História 3.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF8.png)
 
 
 ---
@@ -163,5 +163,5 @@
 **Interface mockup:**  
 prototipos\moockups (baixafidelidade)\BF9.png
 
-![História 3.3](./prototipos/moockups%20(baixafidelidade)/BF9.png)
+![História 3.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF9.png)
 
