@@ -23,6 +23,11 @@
 
 ![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF1.png)
 
+**Interface alta fidelidade:**  
+**Interface alta fidelidade:**  
+![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF0.png) 
+![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF1.png)
+
 ---
 
 ### 1.2. Como Bruna Costa, quero validar os campos obrigatórios da visão do produto para garantir o alinhamento entre os envolvidos desde o início do projeto.
@@ -37,6 +42,9 @@
 
 **Interface mockup:**  
 ![História 1.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF2.png)
+
+**Interface alta fidelidade:**  
+![História 1.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF2.png)
 
 ---
 
@@ -53,7 +61,8 @@
 **Interface mockup:**  
 ![História 1.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF3.png)
 
-
+**Interface alta fidelidade:**  
+![História 1.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF3.png)
 ---
 
 ## HISTÓRIA 2
@@ -74,6 +83,9 @@
 **Interface mockup:**  
 ![História 2.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF4.png)
 
+**Interface alta fidelidade:**  
+![História 2.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF4.png)
+
 
 ---
 
@@ -90,6 +102,8 @@
 **Interface mockup:**  
 ![História 2.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF5.png)
 
+**Interface alta fidelidade:**  
+![História 2.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF5.png)
 
 ---
 
@@ -105,6 +119,9 @@
 
 **Interface mockup:**  
 ![História 2.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF6.png)
+
+**Interface alta fidelidade:**  
+![História 2.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF6.png)
 
 
 ---
@@ -127,6 +144,9 @@
 **Interface mockup:**  
 ![História 3.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF7.png)
 
+**Interface alta fidelidade:**  
+![História 3.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF7.png)
+
 
 ---
 
@@ -147,6 +167,9 @@
 **Interface mockup:**  
 ![História 3.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF8.png)
 
+**Interface alta fidelidade:**  
+![História 3.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF8.png)
+
 
 ---
 
@@ -164,4 +187,7 @@
 prototipos\moockups (baixafidelidade)\BF9.png
 
 ![História 3.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF9.png)
+
+**Interface alta fidelidade:**  
+![História 3.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF9.png)
 
