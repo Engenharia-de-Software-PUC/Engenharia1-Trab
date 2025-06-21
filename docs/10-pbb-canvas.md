@@ -81,7 +81,7 @@
 |-------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------|
 | Falta de clareza sobre quem é o usuário final do produto                     | Interface de Composição de Personas (via IA)    | Criação rápida e automática de personas relevantes                             |
 | Equipe sem tempo ou conhecimento para construir personas estratégicas       |                                                 | Geração confiável de perfis de usuários para orientar decisões                 |
-| Dificuldade em manter o foco no usuário nas fases técnicas                   |                                                 | Empatia e foco no usuário durante desenvolvimento e validações                 |
+| Dificuldade em manter o foco no usuário nas fases técnicas                   |                                                 | Gerar empatia e foco no usuário durante desenvolvimento e validações                 |
 
 
 ---
@@ -90,34 +90,32 @@
 
 ---
 
-### Interface da Visão do Produto (Bruna Costa – Scrum Master)
+### Preencher Interface da Visão do Produto (Bruna Costa – Scrum Master)
 
 | **PBI (Modelo ARO)**                                 |
 |------------------------------------------------------|
 | Criar a estrutura inicial da visão do produto        |
 | Validar os campos obrigatórios da visão do produto   |
 | Atualizar as informações da visão registrada         |
-| Salvar a versão consolidada da visão no sistema      |
+
 
 ---
 
-### Interface “É, Não É, Faz, Não Faz” (Camila Resende – Product Owner)
+### Preencher Interface “É, Não É, Faz, Não Faz” (Camila Resende – Product Owner)
 
 | **PBI (Modelo ARO)**                                           |
 |----------------------------------------------------------------|
 | Preencher a definição do escopo do que o produto É, NÃO É, FAZ E NÃO FAZ  |
 | Validar a consistência entre os quadrantes do produto          |
 | Salvar o conteúdo alinhado da matriz                           |
-| Avançar para a próxima etapa da interface                      |
 
 ---
 
-### Interface de Composição de Personas (Felipe Tavares – Dev Fullstack)
+### Criar Interface de Composição de Personas (Felipe Tavares – Dev Fullstack)
 
 | **PBI (Modelo ARO)**                                                |
 |---------------------------------------------------------------------|
 | Preencher dados do usuário final para a IA gerar personas relevantes           |
-| Criar o modelo de IA para criação automática da persona          |
-| Exibir a versão visual da persona gerada                            |
+| Criar o modelo de IA       |
 | Participar da edição manual dos dados da persona                       |
-| Armazenar a persona gerada no banco de dados do projeto             |
+
