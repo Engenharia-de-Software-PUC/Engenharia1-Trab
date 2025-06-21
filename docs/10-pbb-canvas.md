@@ -1,3 +1,5 @@
+# 9. PBB CANVAS
+
 ## Product Name: PRODUTIM
 
 ## PROBLEMS
@@ -96,7 +98,6 @@
 | Validar os campos obrigatórios da visão do produto   |
 | Atualizar as informações da visão registrada         |
 | Salvar a versão consolidada da visão no sistema      |
-| Prosseguir para o proximo passo da interface         |
 
 ---
 
@@ -104,14 +105,7 @@
 
 | **PBI (Modelo ARO)**                                           |
 |----------------------------------------------------------------|
-| Criar os quadrantes estruturados do que o produto É            |
-| Preencher a definição do escopo do que o produto É             |
-| Criar os quadrantes estruturados do que o produto NÃO É        |
-| Preencher a definição do escopo do que o produto NÃO É         |
-| Criar os quadrantes estruturados do que o produto FAZ          |
-| Preencher a definição do escopo do que o produto FAZ           |
-| Criar os quadrantes estruturados do que o produto NÃO FAZ      |
-| Preencher a definição do escopo do que o produto NÃO FAZ       |
+| Preencher a definição do escopo do que o produto É, NÃO É, FAZ E NÃO FAZ  |
 | Validar a consistência entre os quadrantes do produto          |
 | Salvar o conteúdo alinhado da matriz                           |
 | Avançar para a próxima etapa da interface                      |
@@ -122,8 +116,8 @@
 
 | **PBI (Modelo ARO)**                                                |
 |---------------------------------------------------------------------|
-| Coletar os dados necessários para geração da persona                |
-| Integrar o modelo de IA para criação automática da persona          |
+| Preencher dados do usuário final para a IA gerar personas relevantes           |
+| Criar o modelo de IA para criação automática da persona          |
 | Exibir a versão visual da persona gerada                            |
-| Permitir a edição manual dos dados da persona                       |
+| Participar da edição manual dos dados da persona                       |
 | Armazenar a persona gerada no banco de dados do projeto             |
