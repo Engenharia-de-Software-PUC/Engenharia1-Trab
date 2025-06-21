@@ -25,8 +25,8 @@
 
 **Interface alta fidelidade:**  
 **Interface alta fidelidade:**  
-![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF0.png) 
-![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF1.png)
+![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF0.png) 
+![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF1.png)
 
 ---
 
@@ -44,7 +44,7 @@
 ![História 1.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF2.png)
 
 **Interface alta fidelidade:**  
-![História 1.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF2.png)
+![História 1.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF2.png)
 
 ---
 
@@ -62,7 +62,7 @@
 ![História 1.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF3.png)
 
 **Interface alta fidelidade:**  
-![História 1.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF3.png)
+![História 1.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF3.png)
 ---
 
 ## HISTÓRIA 2
@@ -84,7 +84,7 @@
 ![História 2.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF4.png)
 
 **Interface alta fidelidade:**  
-![História 2.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF4.png)
+![História 2.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF4.png)
 
 
 ---
@@ -103,7 +103,7 @@
 ![História 2.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF5.png)
 
 **Interface alta fidelidade:**  
-![História 2.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF5.png)
+![História 2.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF5.png)
 
 ---
 
@@ -121,7 +121,7 @@
 ![História 2.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF6.png)
 
 **Interface alta fidelidade:**  
-![História 2.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF6.png)
+![História 2.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF6.png)
 
 
 ---
@@ -145,7 +145,7 @@
 ![História 3.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF7.png)
 
 **Interface alta fidelidade:**  
-![História 3.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF7.png)
+![História 3.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF7.png)
 
 
 ---
@@ -168,7 +168,7 @@
 ![História 3.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF8.png)
 
 **Interface alta fidelidade:**  
-![História 3.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF8.png)
+![História 3.2](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF8.png)
 
 
 ---
@@ -189,5 +189,5 @@ prototipos\moockups (baixafidelidade)\BF9.png
 ![História 3.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/moockups%20(baixafidelidade)/BF9.png)
 
 **Interface alta fidelidade:**  
-![História 3.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma%20(altafidelidade)/AF9.png)
+![História 3.3](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF9.png)
 
