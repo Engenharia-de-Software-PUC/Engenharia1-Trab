@@ -27,6 +27,7 @@
 **Interface alta fidelidade:**  
 ![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF0.png) 
 ![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF1.png)
+![História 1.1](https://github.com/Engenharia-de-Software-PUC/Engenharia1-Trab/blob/main/prototipos/figma(altafidelidade)/AF1.1.png) 
 
 ---
 
