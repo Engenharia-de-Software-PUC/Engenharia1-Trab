@@ -35,3 +35,4 @@ Este trabalho, portanto, visa não apenas facilitar a construção de produtos d
 *   [9. CANVAS MVP](./docs/9-canvas-mvp.md)
 *   [10. CANVAS PBB](./docs/10-pbb-canvas.md)
 *   [11. HISTÓRIA DOS USUÁRIOS](./docs/11-história-usuários.md)
+*   [12. HISTÓRIA DOS USUÁRIOS](./docs/12-classe-de-dominio.md)
