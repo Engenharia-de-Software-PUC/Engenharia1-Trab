@@ -117,7 +117,7 @@
 | **PBI (Modelo ARO)**                                                |
 |---------------------------------------------------------------------|
 | Preencher dados do usuário final para a IA gerar personas relevantes           |
-| Criar o modelo de IA para criação automática da persona          |
-| Exibir a versão visual da persona gerada                            |
-| Participar da edição manual dos dados da persona                       |
-| Armazenar a persona gerada no banco de dados do projeto             |
+| Criar o modelo de IA para criação automática da persona                        |
+| Exibir a versão visual da persona gerada                                       |
+| Participar da edição manual dos dados da persona                               |
+| Armazenar a persona gerada no banco de dados do projeto                        |
